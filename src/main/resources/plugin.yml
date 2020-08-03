@@ -1,0 +1,8 @@
+main: ${mainClass}
+name: ${name}
+version: ${version}
+api-version: 1.13
+author: royalkingkb
+commands:
+  stickers:
+    description: Request Ruinscraft Stickers!
